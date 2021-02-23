@@ -1,0 +1,25 @@
+body {
+	background-color: #ADD8E6;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+h1 {
+	color: #00008B;
+	text-align: center;
+	background-color: #6495ED;
+}
+p {
+	color: #191970;
+	font-weight: bold;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 5px groove #4682B4;
+  text-align: left;
+  padding: 8px;  
+}
+
